@@ -1,0 +1,13 @@
+- Listas: é uma estrutura de dados mutável e ordenada que nos permite armazenar uma coleção de elementos, de diferentes tipos de dados e são encerrados dento de [] e separados por , .
+Para acessar os elementos de uma lista utilizamos o número do índice entre [] colchetes, iniciando a partir do 0;
+Também podemos exibir a lista em ordem inversa, a partir do fim, utilizando índice negativos. Ex: [-1] último índice da lista.
+
+- Métodos de Listas:
+append("elemento") - adiciona elemento ao final da lista;
+insert(índice, "elemento") - insere um elemento na posição específica da lista;
+remove("elemento") - remove a primeira ocorrência de um elemento na lista;
+pop(índice) - remove e retorna o elemento numa posição específica da lista;
+sort() - ordena a lista em forma ascendente;
+reverse() - inverte a ordem dos elementos na lista.
+
+- Listas de Compreensão: É uma forma concisa de criar novas listas baseadas numa sequência existente. Permite filtrar e transformar seus elementos através de uma única linha de código.
