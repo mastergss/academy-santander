@@ -1,0 +1,17 @@
+Os loops nos permitem repetir um bloco de código várias vezes. Em Python, os loops mais comuns são for e while.
+O loop for é utilizado para iterar sobre uma sequência (como uma lista, uma tupla* ou uma string) ou qualquer objeto iterável.
+O loop while é utilizado para repetir um bloco de código enquanto uma condição for verdadeira.
+É importante ter cuidado ao usar o loop while, pois, se a condição nunca se tornar falsa, o loop será executado indefinidamente, o que é conhecido como um loop infinito.
+
+*Tupla: é uma estrutura de dados que armazena uma sequência de valores, semelhante a uma lista, porém imutável. Ou seja, após criada, seus elementos não podem ser alterados, adicionados ou removidos.
+**Tuplas são úteis para armazenar dados que não devem ser modificados durante a execução do programa.
+
+Quando utilizar:
+- for: quando quiser percorrer uma sequência de elementos e sabemos exatamente quantas vezes o loop deve ser executado;
+- while: quando deseja repetir um bloco de código enquanto uma condição for verdadeira, e não sabe previamente quantas vezes o loop será executado.
+
+É importante ter cuidado ao usar o loop while, pois, se a condição nunca se tornar falsa, o loop será executado indefinidamente, o que é conhecido como um loop infinito.
+
+Resumindo:
+Use for para percorrer coleções ou quando o número de repetições é conhecido.
+Use while quando depende de uma condição que pode mudar durante a execução.
