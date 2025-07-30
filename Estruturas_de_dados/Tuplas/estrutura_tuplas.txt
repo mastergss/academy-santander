@@ -1,0 +1,9 @@
+- Tuplas: é uma estrutura de dados imutável e ordenada que permite armazenar uma coleção de elementos. Estes elementos são encerrados entre parenteses() e separados por vírgula , .
+Para acessar os elementos de uma tupla utilizamos o número do índice entre [] colchetes, iniciando a partir do 0;
+Ao contrário das listas, as tuplas são imutáveis, que siginifica que não podem ser modificadas uma vez que foram criadas. Não se pode acrescentar, alterar ou excluir seus elementos.
+São úteis quando é necessário armazenar dados de uma coleção que não devem ser modificados. Por exemplo: coordenadas e dados de configurações.
+
+- Métodos de Tuplas:
+count(elemento) - retorna o número de vezes que um elemento aparece na tupla;
+index(elemento) - retorna o índice da primeira ocorrência do elemento na tupla; Como opção podemos específicar o início e fim da busca;
+len(tupla) - retorna o comprimento da tupla; (embora não seja um método propriamente dito).
