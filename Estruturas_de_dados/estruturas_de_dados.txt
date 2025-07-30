@@ -1,0 +1,2 @@
+As estruturas de dados nos permitem armazenar e organizar dados de maneira eficiente em nossos programas.
+Python fornece várias estruturas de dados integradas: listas, tuplas, dicionários, conjuntos.
