@@ -1,0 +1,7 @@
+São  instruções especiais para controlar o fluxo de execução dentro dos loops.
+
+break: é utilizada para sair prematuramente de um loop, independentemente da condição. Quando um break é encontrado, o loop é interrompido e o fluxo de execução continua com a próxima instrução fora do loop.
+
+continue: é utilizada para pular o restante do bloco de código dentro de um loop e passar para a próxima iteração.
+
+pass: é uma operação nula que "não faz nada". É utilizada como um marcador de posição quando uma instrução é sintaticamente necessária, mas nenhuma ação é desejada.

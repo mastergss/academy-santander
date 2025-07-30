@@ -1,0 +1,4 @@
+As estruturas de controle são ferramentas poderosas que nos permitem controlar o fluxo de execução.
+Com as estruturas condicionais (if, if-else, if-elif-else), podemos tomar decisões baseadas em condições.
+Enquanto que ao utilizar os loops (for e while), podemos repetir blocos de códigos várias vezes.
+Além disso, as instruções de controle(break, continue, pass), fornecem um controle adicional sobre o comportamento dos loops.
